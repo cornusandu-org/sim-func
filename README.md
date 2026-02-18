@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository has been archived as of 18th February 2026, and will remain read-only.
+> This repository is licensed under the MIT License (© Copyright cornusandu 2026)
+
 This is just a fun experiment I made because I was bored.
 
 This code simulates the context and environment of a normal function, giving a block of code function-like control flow, as well as a *fully fabricated* `va_list`.
